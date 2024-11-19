@@ -8,5 +8,5 @@ For any queries or issues related to this repository, please contact:
 
 - **Name:** Sanjeevan Hari Sudhakar
 - **Email:** 220701251@rajalakshmi.edu.in
-- **Course:** Internet Programming (CS19542)
+- **Course:** Principals of Artificial Intelligence (AI19341)
 - **Institution:** Rajalakshmi Engineering College, Chennai
